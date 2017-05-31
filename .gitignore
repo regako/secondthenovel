@@ -4,5 +4,6 @@ Secondthenovel.iml
 
 .gradle/
 .idea/
+app/app.iml
 
 local.properties
