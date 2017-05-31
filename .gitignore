@@ -1,0 +1,8 @@
+
+build/
+Secondthenovel.iml
+
+.gradle/
+.idea/
+
+local.properties
